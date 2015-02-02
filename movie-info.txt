@@ -1,0 +1,1324 @@
+
+Movie Name: 12 Angry Men 
+Year: 1957
+Duration: 96 min
+Rating: 8.9
+Total Votes: 350,050
+Genre: Drama
+
+Movie Name: 12 Years a Slave 
+Year: 2013
+Duration: 134 min
+Rating: 8.2
+Total Votes: 304,862
+Genre: Biography Drama History
+
+Movie Name: 21 Grams 
+Year: 2003
+Duration: 124 min
+Rating: 7.7
+Total Votes: 167,019
+Genre: Crime Drama Thriller
+
+Movie Name: A Beautiful Mind 
+Year: 2001
+Duration: 135 min
+Rating: 8.2
+Total Votes: 473,501
+Genre: Biography Drama
+
+Movie Name: About Time 
+Year: 2013
+Duration: 123 min
+Rating: 7.8
+Total Votes: 147,081
+Genre: Drama Fantasy Romance
+
+Movie Name: Abraham Lincoln: Vampire Hunter 
+Year: 2012
+Duration: 105 min
+Rating: 6.0
+Total Votes: 114,759
+Genre: Action Fantasy Horror
+
+Movie Name: Adaptation. 
+Year: 2002
+Duration: 81 min
+Rating: 7.7
+Total Votes: 127,588
+Genre: Comedy Drama
+
+Movie Name: American Beauty 
+Year: 1999
+Duration: 122 min
+Rating: 8.4
+Total Votes: 684,265
+Genre: Drama
+
+Movie Name: American Gangster 
+Year: 2007
+Duration: 176 min
+Rating: 7.8
+Total Votes: 292,395
+Genre: Biography Crime Drama
+
+Movie Name: American History X 
+Year: 1998
+Duration: 119 min
+Rating: 8.6
+Total Votes: 640,673
+Genre: Crime Drama
+
+Movie Name: American Hustle 
+Year: 2013
+Duration: 138 min
+Rating: 7.3
+Total Votes: 286,184
+Genre: Crime Drama
+
+Movie Name: American Psycho 
+Year: 2000
+Duration: 102 min
+Rating: 7.6
+Total Votes: 299,819
+Genre: Crime Drama
+
+Movie Name: Anchorman: The Legend of Ron Burgundy 
+Year: 2004
+Duration: 98 min
+Rating: 7.3
+Total Votes: 226,425
+Genre: Comedy
+
+Movie Name: Anna Karenina 
+Year: 2012
+Duration: 129 min
+Rating: 6.6
+Total Votes: 57,180
+Genre: Drama Romance
+
+Movie Name: Annie Hall 
+Year: 1977
+Duration: 93 min
+Rating: 8.1
+Total Votes: 158,372
+Genre: Comedy Drama Romance
+
+Movie Name: A Perfect Getaway 
+Year: 2009
+Duration: 108 min
+Rating: 6.5
+Total Votes: 51,102
+Genre: Adventure Mystery Thriller
+
+Movie Name: Argo 
+Year: 2012
+Duration: 130 min
+Rating: 7.8
+Total Votes: 369,221
+Genre: Drama Thriller
+
+Movie Name: Atonement 
+Year: 2007
+Duration: 123 min
+Rating: 7.8
+Total Votes: 167,819
+Genre: Drama Mystery Romance
+
+Movie Name: Battleship 
+Year: 2012
+Duration: 131 min
+Rating: 5.9
+Total Votes: 178,772
+Genre: Action Adventure Sci-Fi
+
+Movie Name: Before Sunrise 
+Year: 1995
+Duration: 105 min
+Rating: 8.1
+Total Votes: 145,460
+Genre: Drama Romance
+
+Movie Name: Before Sunset 
+Year: 2004
+Duration: 80 min
+Rating: 8.1
+Total Votes: 136,511
+Genre: Drama Romance
+
+Movie Name: Black Swan 
+Year: 2010
+Duration: 108 min
+Rating: 8.0
+Total Votes: 469,740
+Genre: Drama Mystery Thriller
+
+Movie Name: La vie d'Adèle 
+Year: 2013
+Duration: 179 min
+Rating: 7.9
+Total Votes: 63,109
+Genre: Drama Romance
+
+Movie Name: Blue Jasmine 
+Year: 2013
+Duration: 98 min
+Rating: 7.3
+Total Votes: 118,593
+Genre: Drama
+
+Movie Name: Brave 
+Year: 2012
+Duration: 93 min
+Rating: 7.2
+Total Votes: 210,531
+Genre: Animation Adventure Comedy
+
+Movie Name: Breakfast at Tiffany's 
+Year: 1961
+Duration: 115 min
+Rating: 7.8
+Total Votes: 103,356
+Genre: Comedy Drama Romance
+
+Movie Name: Buried 
+Year: 2010
+Duration: 95 min
+Rating: 7.0
+Total Votes: 102,934
+Genre: Drama Mystery Thriller
+
+Movie Name: Captain Phillips 
+Year: 2013
+Duration: 134 min
+Rating: 7.9
+Total Votes: 266,861
+Genre: Biography Drama Thriller
+
+Movie Name: Carnage 
+Year: 2011
+Duration: 80 min
+Rating: 7.2
+Total Votes: 83,896
+Genre: Comedy Drama
+
+Movie Name: Cell 
+Year: 2015
+Duration: 
+Rating: 
+Total Votes: 
+Genre: Action Horror Sci-Fi
+
+Movie Name: Chaos 
+Year: 2005
+Duration: 106 min
+Rating: 6.5
+Total Votes: 38,903
+Genre: Action Crime Drama
+
+Movie Name: "ReelzChannel Spotlight" Chronicles of Narnia 
+Year: TV Episode 2010
+Duration:  30 min 
+Rating: 
+Total Votes: 
+Genre: Documentary
+
+Movie Name: Cinderella 
+Year: 2015
+Duration: 
+Rating: 
+Total Votes: 
+Genre: Adventure Drama Family
+
+Movie Name: City of God 
+Year: 2002
+Duration: 135 min
+Rating: 8.7
+Total Votes: 443,990
+Genre: Crime Drama
+
+Movie Name: Clash of the Titans 
+Year: 2010
+Duration: 106 min
+Rating: 5.8
+Total Votes: 203,016
+Genre: Action Adventure Fantasy
+
+Movie Name: Cloud Atlas 
+Year: 2012
+Duration: 172 min
+Rating: 7.5
+Total Votes: 246,629
+Genre: Drama Sci-Fi
+
+Movie Name: Cloudy with a Chance of Meatballs 2 
+Year: 2013
+Duration: 95 min
+Rating: 6.5
+Total Votes: 47,850
+Genre: Animation Comedy Family
+
+Movie Name: Crazy, Stupid, Love. 
+Year: 2011
+Duration:  118 min 
+Rating: 7.4
+Total Votes: 324,405
+Genre: Comedy Drama Romance
+
+Movie Name: Dallas Buyers Club 
+Year: 2013
+Duration: 117 min
+Rating: 8.0
+Total Votes: 242,687
+Genre: Biography Drama
+
+Movie Name: Dark Shadows 
+Year: 2012
+Duration: 113 min
+Rating: 6.2
+Total Votes: 170,104
+Genre: Comedy Horror
+
+Movie Name: Death at a Funeral 
+Year: 2010
+Duration: 92 min
+Rating: 5.6
+Total Votes: 31,232
+Genre: Comedy
+
+Movie Name: Despicable Me 
+Year: 2010
+Duration: 95 min
+Rating: 7.7
+Total Votes: 296,535
+Genre: Animation Comedy Family
+
+Movie Name: Diary of a Wimpy Kid 
+Year: 2010
+Duration:  94 min 
+Rating: 6.2
+Total Votes: 27,360
+Genre: Comedy Family
+
+Movie Name: Django Unchained 
+Year: 2012
+Duration: 165 min
+Rating: 8.5
+Total Votes: 716,996
+Genre: Western
+
+Movie Name: Donnie Darko 
+Year: 2001
+Duration: 133 min
+Rating: 8.1
+Total Votes: 486,696
+Genre: Drama Mystery Sci-Fi
+
+Movie Name: Dorian Gray 
+Year: 2009
+Duration: 112 min
+Rating: 6.3
+Total Votes: 45,250
+Genre: Drama Fantasy Thriller
+
+Movie Name: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 
+Year: 1964
+Duration: 95 min
+Rating: 8.5
+Total Votes: 291,740
+Genre: Comedy War
+
+Movie Name: Dumb and Dumber To 
+Year: 2014
+Duration: 109 min
+Rating: 6.2
+Total Votes: 41,646
+Genre: Comedy
+
+Movie Name: Easy A 
+Year: 2010
+Duration: 92 min
+Rating: 7.1
+Total Votes: 221,835
+Genre: Comedy Romance
+
+Movie Name: Elysium 
+Year: 2013
+Duration: 109 min
+Rating: 6.7
+Total Votes: 262,601
+Genre: Action Drama Sci-Fi
+
+Movie Name: Enemy at the Gates 
+Year: 2001
+Duration: 131 min
+Rating: 7.6
+Total Votes: 159,422
+Genre: Drama History Romance
+
+Movie Name: Enough Said 
+Year: 2013
+Duration: 93 min
+Rating: 7.1
+Total Votes: 40,832
+Genre: Comedy Drama Romance
+
+Movie Name: Epic 
+Year: 2013
+Duration: 102 min
+Rating: 6.7
+Total Votes: 72,718
+Genre: Animation Adventure Family
+
+Movie Name: Eternal Sunshine of the Spotless Mind 
+Year: 2004
+Duration: 108 min
+Rating: 8.4
+Total Votes: 546,486
+Genre: Drama Romance Sci-Fi
+
+Movie Name: Exam 
+Year: 2009
+Duration: 101 min
+Rating: 6.9
+Total Votes: 49,977
+Genre: Mystery Thriller
+
+Movie Name: "SOKO Leipzig" Fightclub 
+Year: TV Episode 2012
+Duration:  45 min 
+Rating: 
+Total Votes: 
+Genre: Crime
+
+Movie Name: Flight 
+Year: 2012
+Duration: 138 min
+Rating: 7.3
+Total Votes: 229,646
+Genre: Drama Thriller
+
+Movie Name: Forrest Gump 
+Year: 1994
+Duration: 142 min
+Rating: 8.8
+Total Votes: 970,037
+Genre: Drama Romance
+
+Movie Name: Frozen 
+Year: 2013
+Duration: 102 min
+Rating: 7.7
+Total Votes: 312,462
+Genre: Animation Adventure Comedy
+
+Movie Name: Gangster Squad 
+Year: 2013
+Duration: 113 min
+Rating: 6.8
+Total Votes: 153,451
+Genre: Action Crime Drama
+
+Movie Name: Gone in 60 Seconds 
+Year: 1974
+Duration: 93 min
+Rating: 6.5
+Total Votes: 5,625
+Genre: Action Crime Drama
+
+Movie Name: Good Will Hunting 
+Year: 1997
+Duration: 126 min
+Rating: 8.3
+Total Votes: 489,582
+Genre: Drama
+
+Movie Name: Gran Torino 
+Year: 2008
+Duration: 116 min
+Rating: 8.2
+Total Votes: 465,991
+Genre: Drama
+
+Movie Name: Gravity 
+Year: 2013
+Duration: 91 min
+Rating: 8.0
+Total Votes: 469,378
+Genre: Sci-Fi Thriller
+
+Movie Name: Great Expectations 
+Year: 2012
+Duration: 128 min
+Rating: 6.4
+Total Votes: 7,285
+Genre: Drama Romance
+
+Movie Name: Hansel & Gretel: Witch Hunters 
+Year: 2013
+Duration: 98 min
+Rating: 6.1
+Total Votes: 134,959
+Genre: Action Fantasy Horror
+
+Movie Name: Hotel Transylvania 
+Year: 2012
+Duration: 91 min
+Rating: 7.1
+Total Votes: 120,041
+Genre: Animation Comedy Family
+
+Movie Name: How to Lose Friends & Alienate People 
+Year: 2008
+Duration: 110 min
+Rating: 6.5
+Total Votes: 57,068
+Genre: Comedy Drama Romance
+
+Movie Name: Ice Age: Continental Drift 
+Year: 2012
+Duration: 88 min
+Rating: 6.7
+Total Votes: 115,529
+Genre: Animation Adventure Comedy
+
+Movie Name: In Bruges 
+Year: 2008
+Duration: 107 min
+Rating: 8.0
+Total Votes: 267,398
+Genre: Comedy Crime Drama
+
+Movie Name: Inception 
+Year: 2010
+Duration: 148 min
+Rating: 8.8
+Total Votes: 1,146,549
+Genre: Action Mystery Sci-Fi
+
+Movie Name: Inglourious Basterds 
+Year: 2009
+Duration: 153 min
+Rating: 8.3
+Total Votes: 678,920
+Genre: Adventure Drama War
+
+Movie Name: Inside Job 
+Year: 2010
+Duration: 105 min
+Rating: 8.3
+Total Votes: 47,281
+Genre: Documentary Crime
+
+Movie Name: "Philosophie" Intime 
+Year: TV Episode 2009
+Duration:  26 min 
+Rating: 
+Total Votes: 
+Genre: Documentary
+
+Movie Name: Into the Wild 
+Year: 2007
+Duration: 148 min
+Rating: 8.2
+Total Votes: 343,404
+Genre: Adventure Biography Drama
+
+Movie Name: Iron Man 
+Year: 2008
+Duration: 126 min
+Rating: 7.9
+Total Votes: 551,671
+Genre: Action Adventure Sci-Fi
+
+Movie Name: Jack the Giant Slayer 
+Year: 2013
+Duration: 114 min
+Rating: 6.3
+Total Votes: 91,122
+Genre: Adventure Fantasy
+
+Movie Name: Jane Eyre 
+Year: 2011
+Duration: 120 min
+Rating: 7.4
+Total Votes: 51,800
+Genre: Drama Romance
+
+Movie Name: jOBS 
+Year: 2013
+Duration: 128 min
+Rating: 5.9
+Total Votes: 61,952
+Genre: Biography Drama
+
+Movie Name: Johnny English Reborn 
+Year: 2011
+Duration: 101 min
+Rating: 6.3
+Total Votes: 77,430
+Genre: Action Adventure Comedy
+
+Movie Name: Kick-Ass 
+Year: 2010
+Duration: 117 min
+Rating: 7.7
+Total Votes: 371,884
+Genre: Action Comedy
+
+Movie Name: Kick-Ass 2 
+Year: 2013
+Duration: 103 min
+Rating: 6.7
+Total Votes: 159,447
+Genre: Action Comedy Crime
+
+Movie Name: Kingdom of Heaven 
+Year: 2005
+Duration: 194 min
+Rating: 7.2
+Total Votes: 186,717
+Genre: Action Adventure Drama
+
+Movie Name: Kiss Kiss Bang Bang 
+Year: 2005
+Duration: 103 min
+Rating: 7.7
+Total Votes: 154,834
+Genre: Action Comedy Crime
+
+Movie Name: L.A. Confidential 
+Year: 1997
+Duration: 138 min
+Rating: 8.3
+Total Votes: 355,593
+Genre: Crime Drama Mystery
+
+Movie Name: Last Vegas 
+Year: 2013
+Duration: 105 min
+Rating: 6.7
+Total Votes: 88,375
+Genre: Comedy
+
+Movie Name: Léon 
+Year: 1994
+Duration: 133 min
+Rating: 8.6
+Total Votes: 583,458
+Genre: Crime Drama Thriller
+
+Movie Name: Les Misérables 
+Year: 2012
+Duration: 158 min
+Rating: 7.7
+Total Votes: 206,969
+Genre: Drama Musical Romance
+
+Movie Name: Life of Pi 
+Year: 2012
+Duration: 127 min
+Rating: 8.0
+Total Votes: 350,725
+Genre: Adventure Drama
+
+Movie Name: Lincoln 
+Year: 2012
+Duration: 150 min
+Rating: 7.4
+Total Votes: 170,558
+Genre: Biography Drama History
+
+Movie Name: Little Children 
+Year: 2006
+Duration: 137 min
+Rating: 7.6
+Total Votes: 86,311
+Genre: Drama Romance
+
+Movie Name: Lock, Stock and Two Smoking Barrels 
+Year: 1998
+Duration: 120 min
+Rating: 8.2
+Total Votes: 347,205
+Genre: Comedy Crime
+
+Movie Name: Love Actually 
+Year: 2003
+Duration: 129 min
+Rating: 7.7
+Total Votes: 276,602
+Genre: Comedy Drama Romance
+
+Movie Name: Madagascar 3: Europe's Most Wanted 
+Year: 2012
+Duration:  93 min 
+Rating: 7.0
+Total Votes: 96,241
+Genre: Animation Adventure Comedy
+
+Movie Name: Man of Steel 
+Year: 2013
+Duration: 143 min
+Rating: 7.3
+Total Votes: 442,826
+Genre: Action Adventure Fantasy
+
+Movie Name: Man on Fire 
+Year: 2004
+Duration: 146 min
+Rating: 7.8
+Total Votes: 232,024
+Genre: Action Drama Thriller
+
+Movie Name: Matchstick Men 
+Year: 2003
+Duration: 120 min
+Rating: 7.3
+Total Votes: 95,709
+Genre: Comedy Crime Drama
+
+Movie Name: Meet the Parents 
+Year: 2000
+Duration: 108 min
+Rating: 7.0
+Total Votes: 229,183
+Genre: Comedy Romance
+
+Movie Name: Melancholia 
+Year: 2011
+Duration: 130 min
+Rating: 7.1
+Total Votes: 108,409
+Genre: Drama Sci-Fi
+
+Movie Name: Men in Black 3 
+Year: 2012
+Duration:  106 min 
+Rating: 6.9
+Total Votes: 220,988
+Genre: Action Comedy Sci-Fi
+
+Movie Name: Midnight in Paris 
+Year: 2011
+Duration:  94 min 
+Rating: 7.7
+Total Votes: 256,080
+Genre: Comedy Romance
+
+Movie Name: Million Dollar Baby 
+Year: 2004
+Duration: 132 min
+Rating: 8.1
+Total Votes: 389,783
+Genre: Drama Sport
+
+Movie Name: Minority Report 
+Year: 2002
+Duration: 145 min
+Rating: 7.7
+Total Votes: 345,561
+Genre: Action Mystery Sci-Fi
+
+Movie Name: Moneyball 
+Year: 2011
+Duration: 133 min
+Rating: 7.6
+Total Votes: 250,644
+Genre: Biography Drama Sport
+
+Movie Name: Monsters University 
+Year: 2013
+Duration: 104 min
+Rating: 7.4
+Total Votes: 179,561
+Genre: Animation Adventure Comedy
+
+Movie Name: Moonrise Kingdom 
+Year: 2012
+Duration: 94 min
+Rating: 7.8
+Total Votes: 197,767
+Genre: Adventure Comedy Drama
+
+Movie Name: "The Screen Junkies Show" Best Christopher Nolan Movie 
+Year: TV Episode 2014
+Duration: 
+Rating: 
+Total Votes: 
+Genre: Comedy
+
+Movie Name: "Hollywood's Top Ten" Leonardo DiCaprio Movies 
+Year: TV Episode 2010
+Duration:  30 min 
+Rating: 
+Total Votes: 
+Genre: Reality-TV
+
+Movie Name: Mud 
+Year: 2012
+Duration: 130 min
+Rating: 7.5
+Total Votes: 108,745
+Genre: Drama
+
+Movie Name: Mystic River 
+Year: 2003
+Duration: 138 min
+Rating: 8.0
+Total Votes: 300,683
+Genre: Crime Drama Mystery
+
+Movie Name: Never Let Me Go 
+Year: 2010
+Duration: 103 min
+Rating: 7.2
+Total Votes: 93,528
+Genre: Drama Romance Sci-Fi
+
+Movie Name: Next 
+Year: 2007
+Duration: 96 min
+Rating: 6.2
+Total Votes: 110,119
+Genre: Action Sci-Fi Thriller
+
+Movie Name: Now You See Me 
+Year: 2013
+Duration: 125 min
+Rating: 7.3
+Total Votes: 353,134
+Genre: Crime Mystery Thriller
+
+Movie Name: Oblivion 
+Year: 2013
+Duration: 124 min
+Rating: 7.0
+Total Votes: 307,857
+Genre: Action Adventure Mystery
+
+Movie Name: October Sky 
+Year: 1999
+Duration: 108 min
+Rating: 7.8
+Total Votes: 56,845
+Genre: Biography Drama Family
+
+Movie Name: Oliver Twist 
+Year: 2005
+Duration: 130 min
+Rating: 6.9
+Total Votes: 22,840
+Genre: Crime Drama
+
+Movie Name: Once Upon a Time in the West 
+Year: 1968
+Duration: 137 min
+Rating: 8.6
+Total Votes: 179,191
+Genre: Western
+
+Movie Name: One Flew Over the Cuckoo's Nest 
+Year: 1975
+Duration: 133 min
+Rating: 8.7
+Total Votes: 563,815
+Genre: Drama
+
+Movie Name: ParaNorman 
+Year: 2012
+Duration: 92 min
+Rating: 7.0
+Total Votes: 62,327
+Genre: Animation Adventure Comedy
+
+Movie Name: Perfume: The Story of a Murderer 
+Year: 2006
+Duration: 147 min
+Rating: 7.5
+Total Votes: 167,224
+Genre: Crime Drama Fantasy
+
+Movie Name: Pirates of Silicon Valley 
+Year: TV Movie 1999
+Duration: 95 min
+Rating: 7.2
+Total Votes: 17,926
+Genre: Biography Drama
+
+Movie Name: Pirates of the Caribbean 6 - IMDb
+Year: 
+Duration: 
+Rating: 
+Total Votes: 
+Genre: Action Adventure Comedy
+
+Movie Name: Primal Fear 
+Year: 1996
+Duration: 129 min
+Rating: 7.7
+Total Votes: 112,486
+Genre: Crime Drama Mystery
+
+Movie Name: Prisoners 
+Year: 2013
+Duration: 153 min
+Rating: 8.1
+Total Votes: 270,939
+Genre: Crime Drama Thriller
+
+Movie Name: Prometheus 
+Year: 2012
+Duration: 124 min
+Rating: 7.0
+Total Votes: 393,524
+Genre: Adventure Mystery Sci-Fi
+
+Movie Name: Psycho 
+Year: 1960
+Duration: 108 min
+Rating: 8.6
+Total Votes: 343,530
+Genre: Horror Mystery Thriller
+
+Movie Name: Pulp Fiction 
+Year: 1994
+Duration: 168 min
+Rating: 8.9
+Total Votes: 1,069,662
+Genre: Crime Drama Thriller
+
+Movie Name: Rango 
+Year: 2011
+Duration: 107 min
+Rating: 7.3
+Total Votes: 154,050
+Genre: Animation Adventure Comedy
+
+Movie Name: Rear Window 
+Year: 1954
+Duration: 112 min
+Rating: 8.6
+Total Votes: 261,078
+Genre: Mystery Thriller
+
+Movie Name: Reservoir Dogs 
+Year: 1992
+Duration: 99 min
+Rating: 8.4
+Total Votes: 530,352
+Genre: Crime Drama
+
+Movie Name: Rio 
+Year: 2011
+Duration: 96 min
+Rating: 7.0
+Total Votes: 138,841
+Genre: Animation Adventure Comedy
+
+Movie Name: Rise of the Guardians 
+Year: 2012
+Duration: 97 min
+Rating: 7.3
+Total Votes: 101,169
+Genre: Animation Adventure Family
+
+Movie Name: Road to Perdition 
+Year: 2002
+Duration: 117 min
+Rating: 7.7
+Total Votes: 178,712
+Genre: Crime Drama Thriller
+
+Movie Name: Roman Holiday 
+Year: 1953
+Duration: 117 min
+Rating: 8.1
+Total Votes: 80,676
+Genre: Comedy Drama Romance
+
+Movie Name: Rush 
+Year: 2013
+Duration: 123 min
+Rating: 8.2
+Total Votes: 223,319
+Genre: Action Biography Drama
+
+Movie Name: Saving Private Ryan 
+Year: 1998
+Duration: 169 min
+Rating: 8.6
+Total Votes: 703,678
+Genre: Action Drama War
+
+Movie Name: Scarface 
+Year: 1983
+Duration: 170 min
+Rating: 8.3
+Total Votes: 438,002
+Genre: Crime Drama
+
+Movie Name: Schindler's List 
+Year: 1993
+Duration: 185 min
+Rating: 8.9
+Total Votes: 699,938
+Genre: Biography Drama History
+
+Movie Name: Se7en 
+Year: 1995
+Duration: 127 min
+Rating: 8.7
+Total Votes: 816,985
+Genre: Drama Mystery Thriller
+
+Movie Name: Season of the Witch 
+Year: 2011
+Duration: 95 min
+Rating: 5.4
+Total Votes: 67,719
+Genre: Action Adventure Fantasy
+
+Movie Name: Seven Psychopaths 
+Year: 2012
+Duration: 110 min
+Rating: 7.2
+Total Votes: 156,948
+Genre: Comedy Crime
+
+Movie Name: Side Effects 
+Year: 2013
+Duration: 106 min
+Rating: 7.1
+Total Votes: 128,253
+Genre: Crime Drama Thriller
+
+Movie Name: Silver Linings Playbook 
+Year: 2012
+Duration: 122 min
+Rating: 7.9
+Total Votes: 437,878
+Genre: Comedy Drama Romance
+
+Movie Name: Sin City 
+Year: 2005
+Duration: 147 min
+Rating: 8.1
+Total Votes: 559,475
+Genre: Crime Thriller
+
+Movie Name: Sinister 
+Year: 2012
+Duration: 110 min
+Rating: 6.8
+Total Votes: 111,280
+Genre: Horror Mystery Thriller
+
+Movie Name: Snow White and the Huntsman 
+Year: 2012
+Duration: 132 min
+Rating: 6.2
+Total Votes: 195,760
+Genre: Action Drama Fantasy
+
+Movie Name: "Mr. Palfrey of Westminster" Spygame 
+Year: TV Episode 1985
+Duration: 50 min
+Rating: 8.3
+Total Votes: 8
+Genre: Drama
+
+Movie Name: Stand Up Guys 
+Year: 2012
+Duration:  95 min 
+Rating: 6.5
+Total Votes: 39,218
+Genre: Comedy Crime Thriller
+
+Movie Name: Star Trek Into Darkness 
+Year: 2013
+Duration: 132 min
+Rating: 7.8
+Total Votes: 332,317
+Genre: Action Adventure Sci-Fi
+
+Movie Name: Sucker Punch 
+Year: 2003
+Duration: 80 min
+Rating: 3.9
+Total Votes: 104
+Genre: Comedy Crime Drama
+
+Movie Name: Super8 
+Year: TV Series 2009– 
+Duration:  5 min 
+Rating: 7.6
+Total Votes: 33
+Genre: Comedy
+
+Movie Name: "Balko" Taxidriver 
+Year: TV Episode 1998
+Duration:  45 min 
+Rating: 
+Total Votes: 
+Genre: 
+
+Movie Name: Ted 
+Year: 2012
+Duration: 112 min
+Rating: 7.0
+Total Votes: 386,603
+Genre: Comedy Fantasy
+
+Movie Name: The Avengers 
+Year: 2012
+Duration: 143 min
+Rating: 8.2
+Total Votes: 769,661
+Genre: Action Adventure Sci-Fi
+
+Movie Name: The Bourne Legacy 
+Year: 2012
+Duration: 135 min
+Rating: 6.7
+Total Votes: 193,446
+Genre: Action Adventure Mystery
+
+Movie Name: The Boy in the Striped Pyjamas 
+Year: 2008
+Duration: 94 min
+Rating: 7.8
+Total Votes: 104,765
+Genre: Drama War
+
+Movie Name: The Broken Circle Breakdown 
+Year: 2012
+Duration: 111 min
+Rating: 7.8
+Total Votes: 22,186
+Genre: Drama Music Romance
+
+Movie Name: The Bucket List 
+Year: 2007
+Duration: 97 min
+Rating: 7.4
+Total Votes: 160,214
+Genre: Adventure Comedy Drama
+
+Movie Name: The Conjuring 
+Year: 2013
+Duration: 112 min
+Rating: 7.5
+Total Votes: 226,381
+Genre: Horror
+
+Movie Name: The Croods 
+Year: 2013
+Duration: 98 min
+Rating: 7.3
+Total Votes: 120,520
+Genre: Animation Adventure Comedy
+
+Movie Name: The Curious Case of Benjamin Button 
+Year: 2008
+Duration: 166 min
+Rating: 7.8
+Total Votes: 386,142
+Genre: Drama Fantasy Romance
+
+Movie Name: The Family 
+Year: 2013
+Duration: 111 min
+Rating: 6.3
+Total Votes: 72,216
+Genre: Comedy Crime Thriller
+
+Movie Name: The Fast and the Furious 
+Year: 2001
+Duration: 106 min
+Rating: 6.6
+Total Votes: 216,644
+Genre: Action Crime Thriller
+
+Movie Name: The Fifth Estate 
+Year: 2013
+Duration: 128 min
+Rating: 6.1
+Total Votes: 21,760
+Genre: Biography Drama Thriller
+
+Movie Name: The Fighter 
+Year: 2010
+Duration: 116 min
+Rating: 7.9
+Total Votes: 233,214
+Genre: Biography Drama Sport
+
+Movie Name: The Godfather 
+Year: 1972
+Duration: 175 min
+Rating: 9.2
+Total Votes: 951,794
+Genre: Crime Drama
+
+Movie Name: The Godfather: Part II 
+Year: 1974
+Duration: 220 min
+Rating: 9.1
+Total Votes: 636,765
+Genre: Crime Drama
+
+Movie Name: Il buono, il brutto, il cattivo. 
+Year: 1966
+Duration: 142 min
+Rating: 8.9
+Total Votes: 415,554
+Genre: Western
+
+Movie Name: The Grey 
+Year: 2011
+Duration: 117 min
+Rating: 6.8
+Total Votes: 179,440
+Genre: Adventure Drama Thriller
+
+Movie Name: The Hobbit: An Unexpected Journey 
+Year: 2012
+Duration: 182 min
+Rating: 8.0
+Total Votes: 530,977
+Genre: Adventure Fantasy
+
+Movie Name: The Holiday 
+Year: 2006
+Duration: 138 min
+Rating: 6.9
+Total Votes: 156,502
+Genre: Comedy Romance
+
+Movie Name: The Hunger Games 
+Year: 2012
+Duration: 142 min
+Rating: 7.3
+Total Votes: 580,327
+Genre: Adventure Sci-Fi
+
+Movie Name: The Hunger Games: Catching Fire 
+Year: 2013
+Duration: 146 min
+Rating: 7.7
+Total Votes: 390,290
+Genre: Adventure Sci-Fi
+
+Movie Name: The Illusionist 
+Year: 2006
+Duration: 110 min
+Rating: 7.6
+Total Votes: 252,493
+Genre: Drama Mystery Romance
+
+Movie Name: Lo imposible 
+Year: 2012
+Duration: 114 min
+Rating: 7.6
+Total Votes: 124,066
+Genre: Drama Thriller
+
+Movie Name: The Internship 
+Year: 2013
+Duration: 125 min
+Rating: 6.3
+Total Votes: 133,496
+Genre: Comedy
+
+Movie Name: The King's Speech 
+Year: 2010
+Duration: 118 min
+Rating: 8.1
+Total Votes: 391,954
+Genre: Biography Drama History
+
+Movie Name: The Lincoln Lawyer 
+Year: 2011
+Duration: 118 min
+Rating: 7.3
+Total Votes: 153,704
+Genre: Crime Drama Thriller
+
+Movie Name: The Lives of Others 
+Year: 2006
+Duration: 137 min
+Rating: 8.5
+Total Votes: 213,952
+Genre: Drama Thriller
+
+Movie Name: The Lone Ranger 
+Year: 2013
+Duration: 149 min
+Rating: 6.5
+Total Votes: 154,266
+Genre: Action Adventure Western
+
+Movie Name: The Lorax 
+Year: 2012
+Duration: 86 min
+Rating: 6.5
+Total Votes: 67,854
+Genre: Animation Comedy Family
+
+Movie Name: The Lord of the Rings 
+Year: 1978
+Duration: 132 min
+Rating: 6.1
+Total Votes: 22,049
+Genre: Animation Adventure Drama
+
+Movie Name: The Machinist 
+Year: 2004
+Duration: 94 min
+Rating: 7.7
+Total Votes: 241,037
+Genre: Drama Thriller
+
+Movie Name: The Number 23 
+Year: 2007
+Duration: 98 min
+Rating: 6.4
+Total Votes: 148,237
+Genre: Mystery Thriller
+
+Movie Name: The Painted Veil 
+Year: 2006
+Duration:  125 min 
+Rating: 7.5
+Total Votes: 70,814
+Genre: Drama Romance
+
+Movie Name: The Perks of Being a Wallflower 
+Year: 2012
+Duration: 102 min
+Rating: 8.1
+Total Votes: 283,077
+Genre: Drama Romance
+
+Movie Name: The Pursuit of Happyness 
+Year: 2006
+Duration: 117 min
+Rating: 7.9
+Total Votes: 283,697
+Genre: Biography Drama
+
+Movie Name: The Reader 
+Year: 2008
+Duration: 124 min
+Rating: 7.6
+Total Votes: 166,952
+Genre: Drama Romance
+
+Movie Name: There Will Be Blood 
+Year: 2007
+Duration: 158 min
+Rating: 8.1
+Total Votes: 308,468
+Genre: Drama
+

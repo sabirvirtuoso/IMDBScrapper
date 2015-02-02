@@ -1,0 +1,12 @@
+titles=($(ls -l movies | grep "^d" | awk '{string="";for(i=9;i<=NF;i++)string=string $i; print string}' | awk -F '[(]|[[]|[.][0-9]{3,}' '{print $1;}' | sed 's/\.//g' | awk -F '[0-9]{3,}[a-zA-z]*' '{print $1;}' | awk -F'(BR)*|(Dv)*|(BD)*' '{print $1;}'));
+
+#echo "" > movie.txt;
+
+for title in "${titles[@]}"
+do
+title=$(echo $title | sed -e 's/Trilogy//g' -e 's/Franchise//g' -e 's/Extended[Cut]*//g')
+
+
+echo $title;
+
+done
